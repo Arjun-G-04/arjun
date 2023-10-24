@@ -3,7 +3,7 @@
 This is my portfolio website!
 
 # Live Site
-https://arjun.vercel.app/
+https://arjun-g.vercel.app/
 
 # Setup
 
