@@ -9,7 +9,7 @@ https://arjun-g.vercel.app/
 
 1. Clone the repo using
 ```
-git clone https://github.com/Arjun-G-04/arjun.git
+https://github.com/Arjun-G-04/portfolio.git
 ```
 
 2. Install the modules using
