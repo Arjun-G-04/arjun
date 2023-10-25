@@ -8,7 +8,6 @@ export default function Hero() {
     const [scroll, setScroll] = useState(0)
 
     useEffect(() => {
-        console.log("here")
         if (scroll > 0) {
             window.scrollTo({top: window.innerHeight, left: 0, behavior: 'smooth'})
         }
