@@ -68,7 +68,7 @@ export default function Project() {
                         <div className={`${(hover2 == true || hover3 == true) && hover1 == false ? "bg-black/60" : ""} transition-all duration-500 ease-in-out h-full w-full`}></div>
                     </div>
                     <div className={`${hover1 ? "opacity-100" : "opacity-0"} duration-500 transition-all ease-in-out px-5 py-4`}>
-                        Aaveg '24 Induction Website
+                        Aaveg &apos;24 Induction Website
                     </div>
                 </div>
                 <div className=" absolute pointer-events-none flex flex-col h-full w-full justify-center items-center">
